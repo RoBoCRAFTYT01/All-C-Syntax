@@ -10,7 +10,6 @@ C is a general-purpose programming language that provides a simple yet powerful 
 C follows a procedural programming paradigm, where functions are executed sequentially. Variables are declared with specific data types, and functions are used to structure the program flow.
 
 For more details, check the [Start.c](Start.c) file.
----
 
 ## Folders Stucture
 
